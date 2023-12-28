@@ -1,11 +1,11 @@
-// function counter(){
-//     let x =0;
-//     setInterval(()=>{
-//         x++;
-//         console.log(x+ " seconds");
-//     },1000)
-// }
-// counter();
+function counter(){
+    let x =0;
+    setInterval(()=>{
+        x++;
+        console.log(x+ " seconds");
+    },1000)
+}
+counter();
 
 function count() {
     let count = 0;
